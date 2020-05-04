@@ -1,4 +1,4 @@
-# breath first search
+# breadth first search
 #coding=utf-8
 
 from collections import deque
